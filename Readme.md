@@ -9,9 +9,9 @@
 
 
 ## Required
-- [ x] User can browse through multiple flashcards
-- [ x] User can re-open the app and see previously created flashcards
-- [x ] Push code to GitHub
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
 ## Optional
 - [ ] User can delete a flashcard
 - [ ] User can edit existing flashcard
